@@ -31,3 +31,4 @@ node_modules
 .coveralls.yml
 coverage
 build
+.idea
