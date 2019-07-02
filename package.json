@@ -27,8 +27,8 @@
   },
   "dependencies": {
     "nan": "2.x",
-    "node-gyp": "^5.0.1",
-    "node-pre-gyp": "0.x",
+    "node-gyp": "3.2.1",
+    "node-pre-gyp": "^0.13.0",
     "pngjs": "3.3.0",
     "pngjs-image": "^0.11.6"
   },
